@@ -1,0 +1,2 @@
+# Trypilec
+Draughts demonstration
